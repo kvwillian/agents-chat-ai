@@ -15,6 +15,13 @@
       "when": 1752007525597,
       "tag": "0001_small_cerise",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752265234573,
+      "tag": "0002_green_nuke",
+      "breakpoints": true
     }
   ]
 }
